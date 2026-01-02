@@ -9,11 +9,14 @@ The first thing I did to officially join the team was to complete a CFD challeng
 I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles work. 
 ![rocket nozzel sim animation](animation-1-ezgif.com-video-to-gif-converter.gif)
 
-OXYGEN RICH RING PRE-BURNER
+-OXYGEN RICH RING PRE-BURNER   
+    
+    -Upon joining the team, I was assigned to the Staged Combustion Project, more specifically, I was assigned to designing the pre-burner. At this point, I realized that I was in way over my head, and decided to take every challenge head-on and give every challenge my all.
 
 -Injectors
-    
-    -Desing
+
+-Desing
+
     -CFD
     -Physical Testing
     -Final Result
