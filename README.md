@@ -5,5 +5,13 @@ I joined the staged combustion project in August of 2025 with nearly zero experi
 This documents my journey to becoming an excellent propulsion engineer.
 
 OXYGEN RICH RING PRE-BURNER
+
 -Injectors
+    -Desing
+    -CFD
+    -Physical Testing
+    -Final Result
+    
 -Injector plate
+  -Rough Cad
+  -proof of concept flow test 
