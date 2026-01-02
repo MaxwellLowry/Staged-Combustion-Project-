@@ -4,4 +4,6 @@ This repository will document my contributions to OSU Liquid Rocket Systems' nex
 I joined the staged combustion project in August of 2025 with nearly zero experience in Liquid propulsion systems design. 
 This documents my journey to becoming an excellent propulsion engineer.
 
-PRE-BURNER
+OXYGEN RICH RING PRE-BURNER
+-Injectors
+-Injector plate
