@@ -41,7 +41,7 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
   -Rough Cad
 ![isometric veiw](Screenshot 2026-01-02 144927.png)   
   -proof of concept flow test 
-<img width="2009" height="1224" alt="Screenshot 2026-01-02 144927" src="https://github.com/user-attachments/assets/056b0a3f-4944-4144-b463-59da47531a48" />
+<img width="1004" height="612" alt="Screenshot 2026-01-02 144927" src="https://github.com/user-attachments/assets/056b0a3f-4944-4144-b463-59da47531a48" />
 <img width="1510" height="1138" alt="Screenshot 2026-01-02 145028" src="https://github.com/user-attachments/assets/b2426d2d-4bed-42db-9c38-540bf291cba4" />
 
 
