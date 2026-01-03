@@ -29,13 +29,22 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 
 <img width="500" height="500" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
 
-![Injector test video](IMG_4352-ezgif.com-video-to-gif-converter.gif)
-    
--Desing
+<img 
+  src="https://github.com/user-attachments/assets/008ff039-2f2e-4aaf-9404-f116e7856776"
+  width="450"
+/>
 
-    -CFD
-    -Physical Testing
-    -Final Result
+<img 
+  src="https://github.com/user-attachments/assets/629b68a8-6254-41ea-91e5-0d4da64ff760"
+  width="450"
+/>
+
+<img 
+  src="https://github.com/user-attachments/assets/37c5414d-a7d3-471f-89c2-55de51c1fc02"
+  width="450"
+/>
+
+![Injector test video](IMG_4352-ezgif.com-video-to-gif-converter.gif)
     
 -Injector plate CAD
 
@@ -46,5 +55,8 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 
 
  -proof of concept flow test 
-https://github.com/user-attachments/assets/9b8f0017-6a7e-4374-be8e-0da92c71a418
 
+<img 
+  src="https://github.com/user-attachments/assets/afbae0ab-4bdd-4b67-9145-a80effbf6934"
+  width="450"
+/>
