@@ -1,3 +1,4 @@
+
 # Staged-Combustion-Project-
 This repository will document my contributions to OSU Liquid Rocket Systems' next-generation staged combustion engine
 
@@ -45,6 +46,8 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 />
 
 ![Injector test video](IMG_4352-ezgif.com-video-to-gif-converter.gif)
+
+<img width="450" alt="Screenshot 2026-01-02 224716" src="https://github.com/user-attachments/assets/5b8d29e1-8aea-49e2-a239-98f7f97b9e66" />
     
 -Injector plate CAD
 
