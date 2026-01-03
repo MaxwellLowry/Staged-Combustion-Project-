@@ -27,6 +27,8 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
     Unfortunately, the day after I created the injector that worked, my entire hard drive was wiped for no apparent reason.
     That being said, I picked up where I left off and remade the working injector. I did lose many of the design iteration CAD and 
     simulation files, so much of the documentation for those is photos taken from the phone of my dirty laptop's screen.
+
+<img width="1084" height="1022" alt="Screenshot 2026-01-02 222447" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
     
     
 -Desing
@@ -44,4 +46,3 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 
 
 https://github.com/user-attachments/assets/9b8f0017-6a7e-4374-be8e-0da92c71a418
-
