@@ -12,8 +12,7 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 -OXYGEN RICH RING PRE-BURNER   
     
     Upon joining the team, I was assigned to the Staged Combustion Project, 
-     More specifically, I was assigned to design the pre-burner.<img width="2009" height="1224" alt="Screenshot 2026-01-02 144927" src="https://github.com/user-attachments/assets/01f17a25-ee4a-420f-84fa-15467780b73d" />
-
+     More specifically, I was assigned to design the pre-burner.
      At this point, I realized that I was in way over my head, 
      and decided to take every challenge head-on and learn as much as possible. 
 
@@ -28,7 +27,7 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
     That being said, I picked up where I left off and remade the working injector. I did lose many of the design iteration CAD and 
     simulation files, so much of the documentation for those is photos taken from the phone of my dirty laptop's screen.
 
-<img width="1084" height="1022" alt="Screenshot 2026-01-02 222447" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
+<img width="500" height="500" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
     
     
 -Desing
@@ -37,12 +36,13 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
     -Physical Testing
     -Final Result
     
--Injector plate
-  -Rough Cad
-![isometric veiw](Screenshot 2026-01-02 144927.png)   
-  -proof of concept flow test 
-<img width="1004" height="612" alt="Screenshot 2026-01-02 144927" src="https://github.com/user-attachments/assets/056b0a3f-4944-4144-b463-59da47531a48" />
-<img width="1510" height="1138" alt="Screenshot 2026-01-02 145028" src="https://github.com/user-attachments/assets/b2426d2d-4bed-42db-9c38-540bf291cba4" />
+-Injector plate CAD
 
 
+  
+<img width="500" height="300" src="https://github.com/user-attachments/assets/056b0a3f-4944-4144-b463-59da47531a48" />
+<img src="https://github.com/user-attachments/assets/b2426d2d-4bed-42db-9c38-540bf291cba4" width="377" height="284.5">
+
+
+ -proof of concept flow test 
 https://github.com/user-attachments/assets/9b8f0017-6a7e-4374-be8e-0da92c71a418
