@@ -28,7 +28,7 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
     simulation files, so much of the documentation for those is photos taken from the phone of my dirty laptop's screen.
 
 <img width="500" height="500" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
-    
+![IMG_4352-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e0171c98-7e40-41d1-bff4-65b36684616e)
     
 -Desing
 
@@ -46,3 +46,4 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 
  -proof of concept flow test 
 https://github.com/user-attachments/assets/9b8f0017-6a7e-4374-be8e-0da92c71a418
+
