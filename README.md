@@ -28,26 +28,36 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
     That being said, I picked up where I left off and remade the working injector. I did lose many of the design iteration CAD and 
     simulation files, so much of the documentation for those is photos taken from the phone of my dirty laptop's screen.
 
-<img width="500" height="500" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
+<img width="300" src="https://github.com/user-attachments/assets/b1a1b494-b6c2-4329-9a12-1e03e5230c4e" />
+
+-Injector CFD
+
+    Unfortunately, due to my laptop's hard drive being corrupted, these photos were taken from my iPhone of my dirty laptop screen.
 
 <img 
   src="https://github.com/user-attachments/assets/008ff039-2f2e-4aaf-9404-f116e7856776"
-  width="450"
+  width="300"
 />
-
 <img 
   src="https://github.com/user-attachments/assets/629b68a8-6254-41ea-91e5-0d4da64ff760"
-  width="450"
+  width="300"
 />
-
 <img 
   src="https://github.com/user-attachments/assets/37c5414d-a7d3-471f-89c2-55de51c1fc02"
-  width="450"
+  width="300"
+/>
+-real testing
+
+    the image and GIF below show testing of one iteration of the coaxial swirl injector; the graph shows pressure against time. 
+<img 
+    src="https://github.com/user-attachments/assets/5b8d29e1-8aea-49e2-a239-98f7f97b9e66" 
+    width="300" 
+/>
+<img 
+  src="IMG_4352-ezgif.com-video-to-gif-converter.gif"
+  width="200"
 />
 
-![Injector test video](IMG_4352-ezgif.com-video-to-gif-converter.gif)
-
-<img width="450" alt="Screenshot 2026-01-02 224716" src="https://github.com/user-attachments/assets/5b8d29e1-8aea-49e2-a239-98f7f97b9e66" />
     
 -Injector plate CAD
 
@@ -58,7 +68,9 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
 
 
  -proof of concept flow test 
-
+ 
+    This flow test was meant to validate my constant velocity manifold for fuel by demonstrating an even startup and 
+    constant/even sustained flow through each injector
 <img 
   src="https://github.com/user-attachments/assets/afbae0ab-4bdd-4b67-9145-a80effbf6934"
   width="450"
