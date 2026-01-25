@@ -75,3 +75,14 @@ I completed this sim as a means to learn about ANSYS Fluent and how bell nozzles
   src="https://github.com/user-attachments/assets/afbae0ab-4bdd-4b67-9145-a80effbf6934"
   width="450"
 />
+
+rough protoCAD of ring burner, still need a lot of calculations to refine geometry
+
+ 
+ <img src="https://github.com/user-attachments/assets/5cf7e627-134b-4a72-932a-98aa07e72d80" width="300">
+ 
+This calculation shows how either combustion chamber will have to be drastically lengthened or increased in width.
+For our pourposes we will likely just increase the width because the turbine shaft was designed for a much smaller length. 
+
+
+<img src="https://github.com/user-attachments/assets/f13ef313-fab9-4578-bd96-9aa8c6d218b7" width="300">
