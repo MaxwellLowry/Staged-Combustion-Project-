@@ -86,3 +86,14 @@ For our pourposes we will likely just increase the width because the turbine sha
 
 
 <img src="https://github.com/user-attachments/assets/f13ef313-fab9-4578-bd96-9aa8c6d218b7" width="300">
+
+
+Results from the fuel injector volute simulation show an even pressure distribution                                                  
+<img width="400" alt="Screenshot 2026-02-01 174138" src="https://github.com/user-attachments/assets/e43577c8-9ebd-49d8-80fe-84a053fa1315" />
+<img width="400" alt="Screenshot 2026-02-01 174149" src="https://github.com/user-attachments/assets/1259748d-73df-492b-be36-f3f2b5a525bb" />
+<img width="400" alt="Screenshot 2026-02-01 174203" src="https://github.com/user-attachments/assets/1f2336a6-e589-426e-b1e3-02eefa31e86f" />
+
+Results from the Lox injector volute simulation show an even pressure distribution                                                    
+<img width="400" alt="Screenshot 2026-02-01 172033" src="https://github.com/user-attachments/assets/ae7dd699-38f6-4ecc-978d-d745ba7e6d14" />
+<img width="400"  alt="Screenshot 2026-02-01 172019" src="https://github.com/user-attachments/assets/466a1865-c3c0-4c84-bf71-088780472e7c" />
+<img width="400"  alt="Screenshot 2026-02-01 224803" src="https://github.com/user-attachments/assets/c63268e5-9d98-48cd-901d-b8f0fee13597" />
