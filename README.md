@@ -97,3 +97,10 @@ Results from the Lox injector volute simulation show an even pressure distributi
 <img width="400" alt="Screenshot 2026-02-01 172033" src="https://github.com/user-attachments/assets/ae7dd699-38f6-4ecc-978d-d745ba7e6d14" />
 <img width="400"  alt="Screenshot 2026-02-01 172019" src="https://github.com/user-attachments/assets/466a1865-c3c0-4c84-bf71-088780472e7c" />
 <img width="400"  alt="Screenshot 2026-02-01 224803" src="https://github.com/user-attachments/assets/c63268e5-9d98-48cd-901d-b8f0fee13597" />
+
+
+New Redesign, with an increased stage 1 OF ratio for more stable combustion. 4 Lox tangental inlets for both stages, to ensure better pressure distribution. and geometry is optimized for reduction of materials and additive manufacturing. 
+
+<img width="500" alt="Screenshot 2026-02-17 190146" src="https://github.com/user-attachments/assets/bcb893ac-3b8e-4a32-9d19-4e09976d7be9" />
+
+<img width="500" alt="Screenshot 2026-02-18 093619" src="https://github.com/user-attachments/assets/e57c1b1f-3d44-4320-bd40-c9b48ebb6425" />
