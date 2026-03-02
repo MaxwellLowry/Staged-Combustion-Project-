@@ -1,4 +1,3 @@
-
 # Staged-Combustion-Project-
 This repository will document my contributions to OSU Liquid Rocket Systems' next-generation staged combustion engine
 
@@ -106,4 +105,9 @@ New Redesign, with an increased stage 1 OF ratio for more stable combustion. 4 L
 <img width="500" alt="Screenshot 2026-02-18 093619" src="https://github.com/user-attachments/assets/e57c1b1f-3d44-4320-bd40-c9b48ebb6425" />
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e5d0e7b6-be9b-4e23-86fd-02db00ac71f9" />
+
+First Complete Draft of Prebuner
+
+<img width="500" alt="Screenshot 2026-03-02 111237" src="https://github.com/user-attachments/assets/f435e4a9-1088-4ee9-ab9a-1c300d19fdf7" />
+
 
